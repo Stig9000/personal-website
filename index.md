@@ -12,3 +12,6 @@ I'm learning how the web works by building something real.
 
 
 This is an additional piece of text to test what i've written
+
+
+[My Projects](projects.md)
